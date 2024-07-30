@@ -1,0 +1,1 @@
+Programa desenvolvido durante o curso de Java, com a finalidade de fixar os conteúdos da aula de composições e enumerações. Um programa que registra dados de um cliente, de um pedido feito pelo mesmo e dos itens que compõe esse pedido. 
